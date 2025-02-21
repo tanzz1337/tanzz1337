@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Sultan Raja Marlindo!  
-<img src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg" width="1200">
-
-🔹 Cybersecurity Enthusiast | Web Penetration Tester | Bug Hunter   
-## 🛠️ Skills  
-- Penetration Testing  
-- Web Security  
-- Python & Bash Scripting
+<img src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg" width="1200" height="500">
   
 ## 🚀 About Me  
 - 💻 Passionate about security, coding, and automation  
