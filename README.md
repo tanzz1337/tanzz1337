@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sultan Raja Marlindo!  
-![Ethical Hacker](https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg)
+<img src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg" width="1200">
 
 🔹 Cybersecurity Enthusiast | Web Penetration Tester | Bug Hunter   
 ## 🛠️ Skills  
