@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sultan Raja Marlindo!  
+![Ethical Hacker](https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg)
 
-<!--
-**tanzz1337/tanzz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Cybersecurity Enthusiast | Web Penetration Tester | Bug Hunter   
+## 🛠️ Skills  
+- Penetration Testing  
+- Web Security  
+- Python & Bash Scripting
+  
+## 🚀 About Me  
+- 💻 Passionate about security, coding, and automation  
+- 🔍 Exploring new vulnerabilities & hacking techniques  
+- 🛠️ Building open-source security tools  
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultanmarlindo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Some Company
+- 🌱 I’m currently learning Anything 
+- 👯 I’m looking to collaborate on Everyone 
+- 🤔 I’m looking for help with ❤ 
+- 💬 Ask me about Anything 
+- 😄 Pronouns: Cutan
+- ⚡ Fun fact: Learn From Zero To Hero
