@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/cyber-security-flat-composition-with-various-hacker-attacks-computer-equipment-blue-background-illustration_98292-8033.jpg" width="1200">
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Security_Summit_23.max-2500x2500.jpg">
 
 # Hi, saya Sultan Raja Marlindo 👋
 
