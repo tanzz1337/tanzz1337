@@ -1,18 +1,49 @@
-# 👋 Hi, I'm Sultan Raja Marlindo!  
-<img src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151252469.jpg" width="1200" height="500">
-  
+<img src="https://img.freepik.com/free-vector/cyber-security-flat-composition-with-various-hacker-attacks-computer-equipment-blue-background-illustration_98292-8033.jpg" width="1200">
+
+# Hi, saya Sultan Raja Marlindo 👋
+
+Web Penetration Tester,CTF Player & Cybersecurity Enthusiast — fokus pada pengujian aplikasi web, discovery kerentanan, sekaligus praktik keamanan defensif. Saya suka membuat PoC yang reproducible (di lab terisolasi), menulis write-up, dan membantu tim menambal celah secara bertahap.
+
 ## 🚀 About Me  
-- 💻 Passionate about security, coding, and automation  
+- 💻 Passionate about security, coding, and automation
 - 🔍 Exploring new vulnerabilities & hacking techniques  
-- 🛠️ Building open-source security tools  
+- 🛠️ Building open-source security tools
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultanmarlindo)
+Berpengalaman pada pengujian aplikasi web: authentication, authorization, session management, input validation, file upload, dan API security.
+Berminat pada bug hunting (responsible disclosure), threat modeling, dan penguatan pipeline CI/CD terhadap secret leakage.
+Prefer bekerja di lingkungan yang aman/terisolasi (Docker/VM) dan selalu mengikuti etika pen-test.
 
-- 🔭 I’m currently working on Some Company
-- 🌱 I’m currently learning Anything 
-- 👯 I’m looking to collaborate on Everyone 
-- 🤔 I’m looking for help with ❤ 
-- 💬 Ask me about Anything 
-- 😄 Pronouns: Cutan
-- ⚡ Fun fact: Learn From Zero To Hero
+## 🛠️ Keahlian Utama
+- Web App Testing: OWASP Top 10, XSS, SQLi, CSRF, IDOR, SSRF, RCE (analisis & mitigasi)
+- Authentication & Authz: session fixation, JWT, password flows, SSO assessment
+- API Security: API endpoints audit, rate limiting, token misuse, IDOR pada API
+- Recon & Scanning: passive/active recon, subdomain enumeration, dirb, fuzzing
+- Forensics & Remediation: log analysis, incident triage, secret rotation
+- Coding/Automation: scripting untuk PoC & scanner (Python / Bash), CI pipelines
+
+## 🧰 Tools Favorit
+- Burp Suite (Professional / Community workflows)
+- OWASP ZAP, Nmap, Nikto
+- sqlmap, ffuf, dirbuster, wfuzz
+- Gitleaks, TruffleHog, git-secrets
+- Docker, Ghidra (untuk reverse engineering sederhana), Wireshark
+- Python (requests, BeautifulSoup), Node.js (simple tooling)
+
+## 
+
+🔭 I’m currently working on Some Company
+
+🌱 I’m currently learning Anything
+
+👯 I’m looking to collaborate on Everyone 
+
+🤔 I’m looking for help with ❤ 
+
+💬 Ask me about Anything 
+
+😄 Pronouns: Tanzz
+
+⚡ Fun fact: Learn From Zero To Hero
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzz1337&show_icons=true)
